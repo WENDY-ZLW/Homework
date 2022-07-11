@@ -19,4 +19,4 @@ def surviver(total_num,k):
     return lucky_one[0]  
     
 
-print "So the last one is: " , surviver (total_num,k)
+print( "So the last one is: " , surviver (total_num,k))
