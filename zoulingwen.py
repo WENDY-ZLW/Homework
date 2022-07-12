@@ -4,8 +4,8 @@
 
 from collections import deque
 
-total_num = int(raw_input("> The total number is: "))
-k = int(raw_input("> The target number is: "))
+total_num = int(input("> The total number is: "))
+k = int(input("> The target number is: "))
 
 def surviver(total_num,k):
     
